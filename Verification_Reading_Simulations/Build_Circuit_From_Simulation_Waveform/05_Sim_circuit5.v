@@ -3,6 +3,7 @@
 //Value of output is input b, e, a, d respectively
 //that is, when c is 0, input from b is copied to output,
 //when c is 1, input from e is copied to output, etc
+//Else default value is all 1s
 
 module top_module (
     input [3:0] a,

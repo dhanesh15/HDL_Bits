@@ -1,4 +1,5 @@
-
+//Link : https://hdlbits.01xz.net/wiki/Kmap2
+//Explanation:  Group the 1s in KMap to obtain the below expression
 
 module top_module(
     input a,
